@@ -20,6 +20,8 @@ This README explains the hardware, wiring, how the provided code works, how to c
 ## Project overview
 The project uses an ultrasonic distance sensor to detect objects within a configurable distance and a hobby servo to open and close the dustbin lid. The code reads the distance several times, averages the readings to reduce noise, and triggers the servo when an object is detected within the threshold.
 
+<img width="1070" height="607" alt="ed2a8137-1295-435b-b89e-c4b1c19fcd74" src="https://github.com/user-attachments/assets/1f7ab87e-e2cb-443e-b621-7612223daff1" />
+
 Provided code file: `smart-dustbin-code.txt`
 
 Commit reference (source file): https://github.com/mirthun-d/arduino-dustbin-project/blob/fee85c7d3c34a889a56f7bcfc9f6f4f8ca522d86/smart-dustbin-code.txt
